@@ -1,0 +1,24 @@
+test/dogs/dog.3.jpg takes 0.003905773162841797 to test
+Probability that it's a dog: 0.5236589908599854. Prob that it's a cat: 0.4763409197330475
+
+TRUTH: it's a dog
+test/dogs/dog.2.jpg takes 0.0014598369598388672 to test
+Probability that it's a dog: 0.5264261364936829. Prob that it's a cat: 0.4735739231109619
+
+TRUTH: it's a dog
+test/dogs/dog.4.jpg takes 0.0014333724975585938 to test
+Probability that it's a dog: 0.5259447693824768. Prob that it's a cat: 0.4740551710128784
+
+TRUTH: it's a dog
+test/cats/cat.0.jpg takes 0.001383066177368164 to test
+Probability that it's a dog: 0.5188371539115906. Prob that it's a cat: 0.4811628758907318
+
+TRUTH: it's a cat
+test/cats/cat.4.jpg takes 0.0013399124145507812 to test
+Probability that it's a dog: 0.5196458697319031. Prob that it's a cat: 0.4803541898727417
+
+TRUTH: it's a cat
+test/cats/cat.3.jpg takes 0.0014989376068115234 to test
+Probability that it's a dog: 0.5269664525985718. Prob that it's a cat: 0.47303351759910583
+
+TRUTH: it's a cat
